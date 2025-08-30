@@ -5,3 +5,6 @@ at the start of an exciting journey in tech. Whether you're a beginner looking t
 moving, or your just interested in my progress, then you've come to the right place!
 Here you will find everything that I've learnt so far, from comprehensive breakdowns on theoretial 
 concepts to challenging projects and everything in between. 
+
+The repositories below are a work in progress, and I look forward to displaying the finished article
+soon, so please stand by for it!
