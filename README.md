@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 - 🔭 I’m currently working on **a production-grade app on EKS**
 
 - 💬 Ask me about **Terraform, CI/CD, AWS, Kubernetes**
