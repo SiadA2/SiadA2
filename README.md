@@ -30,4 +30,5 @@
 
 <h2 align="left">Projects:</h2>
 <h3><a href="https://github.com/SiadA2/Threat-Composer-App" alt="tm">Amazon Threat-Composer Tool hosted on ECS Fargate</a></h3>
+<h3><a href="https://github.com/SiadA2/Production-Grade-EKS-App" alt="tm">Production-Grade EKS Cluster</a></h3>
 
