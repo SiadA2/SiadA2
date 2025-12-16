@@ -29,6 +29,7 @@
 ### 
 
 <h2 align="left">Projects:</h2>
-<h3><a href="https://github.com/SiadA2/Threat-Composer-App" alt="tm">Amazon Threat-Composer Tool hosted on ECS Fargate</a></h3>
-<h3><a href="https://github.com/SiadA2/Production-Grade-EKS-App" alt="tm">Production-Grade EKS Cluster</a></h3>
+<h3><a href="https://github.com/SiadA2/Threat-Composer-App" alt="tm">1. ecs-fargate-deployment</a></h3>
+<h3><a href="https://github.com/SiadA2/Production-Grade-EKS-App" alt="tm">2. production-grade-eks-gitops</a></h3>
+<h3><a href="https://github.com/SiadA2/ecs-v2" alt="tm">3. multi-cloud app deployed through blue-green</a></h3>
 
