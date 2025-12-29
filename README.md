@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
 ###
 
 <div align="center">
@@ -23,8 +22,16 @@
 
 - 🔭 I’m currently working on **a multi-cloud, multi-environment application deployment**
 
-<h2 align="left">Tech Stack:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## Tech Stack:
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=AWS&logo=amazonwebservices&label=&color=FF9900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="aws logo" />
+  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo" />
+  <img src="https://img.shields.io/static/v1?message=Terraform&logo=terraform&label=&color=623CE4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="terraform logo" />
+  <img src="https://img.shields.io/static/v1?message=Kubernetes&logo=kubernetes&label=&color=326CE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kubernetes logo" />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo" />
+  <img src="https://img.shields.io/static/v1?message=Bash&logo=gnubash&label=&color=4EAA25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bash logo" />
+</div>
 
 ### 
 
