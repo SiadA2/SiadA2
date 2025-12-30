@@ -40,9 +40,48 @@
 
 ## 🚀 Featured Projects:
 
-| Project | Description | Repository |
-|---------|-------------|------------|
-| **ECS Fargate Deployment** | Containerized application deployment using AWS ECS Fargate | [View Project](https://github.com/SiadA2/Threat-Composer-App) |
-| **Production-Grade EKS GitOps** | Kubernetes deployment with GitOps workflow and best practices | [View Project](https://github.com/SiadA2/Production-Grade-EKS-App) |
-| **Multi-Cloud Blue-Green Deployment** | Cross-cloud application deployment with blue-green strategy | [View Project](https://github.com/SiadA2/ecs-v2) |
+### **ECS Fargate Deployment - Threat Composer App**
+Fully containerized threat modeling application deployed on AWS ECS Fargate with automated CI/CD pipeline. Features auto-scaling, load balancing, and secure container orchestration for production workloads.
+
+**Tech Stack:**
+• AWS ECS Fargate
+• Docker
+• AWS Application Load Balancer
+• AWS CloudFormation
+• GitHub Actions
+• AWS ECR
+
+[View Project](https://github.com/SiadA2/Threat-Composer-App)
+
+---
+
+### **Production-Grade EKS GitOps**
+Enterprise-ready Kubernetes deployment implementing GitOps methodology with ArgoCD. Includes monitoring, logging, security policies, and automated application delivery with infrastructure as code.
+
+**Tech Stack:**
+• Amazon EKS
+• ArgoCD
+• Terraform
+• Helm Charts
+• Prometheus & Grafana
+• AWS Load Balancer Controller
+• Kubernetes
+
+[View Project](https://github.com/SiadA2/Production-Grade-EKS-App)
+
+---
+
+### **Multi-Cloud Blue-Green Deployment**
+Advanced deployment strategy implementing blue-green methodology across multiple cloud providers. Features zero-downtime deployments, automated rollback capabilities, and cross-cloud traffic management.
+
+**Tech Stack:**
+• AWS ECS
+• Docker
+• Terraform
+• AWS CodePipeline
+• AWS Route 53
+• Application Load Balancer
+• CloudWatch
+
+[View Project](https://github.com/SiadA2/ecs-v2)
 
