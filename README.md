@@ -6,9 +6,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="siadadam2@gmail.com"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/siadaadam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:siadadam2@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/siad-adam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -18,9 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiadA2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-- 🔭 I’m currently working on **a multi-cloud, multi-environment application deployment**
 
 ## Tech Stack:
 
@@ -35,8 +38,11 @@
 
 ### 
 
-<h2 align="left">Projects:</h2>
-<h3>1.<a href="https://github.com/SiadA2/Threat-Composer-App" alt="tm"> ecs-fargate-deployment</a></h3>
-<h3>2.<a href="https://github.com/SiadA2/Production-Grade-EKS-App" alt="tm"> production-grade-eks-gitops</a></h3>
-<h3>3.<a href="https://github.com/SiadA2/ecs-v2" alt="tm"> multi-cloud app deployed through blue-green</a></h3>
+## 🚀 Featured Projects:
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| **ECS Fargate Deployment** | Containerized application deployment using AWS ECS Fargate | [View Project](https://github.com/SiadA2/Threat-Composer-App) |
+| **Production-Grade EKS GitOps** | Kubernetes deployment with GitOps workflow and best practices | [View Project](https://github.com/SiadA2/Production-Grade-EKS-App) |
+| **Multi-Cloud Blue-Green Deployment** | Cross-cloud application deployment with blue-green strategy | [View Project](https://github.com/SiadA2/ecs-v2) |
 
