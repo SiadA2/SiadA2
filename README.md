@@ -47,7 +47,7 @@ Fully containerized threat modeling application deployed on AWS ECS Fargate with
 • AWS ECS Fargate
 • Docker
 • AWS Application Load Balancer
-• AWS CloudFormation
+• Terraform
 • GitHub Actions
 • AWS ECR
 
@@ -64,7 +64,7 @@ Enterprise-ready Kubernetes deployment implementing GitOps methodology with Argo
 • Terraform
 • Helm Charts
 • Prometheus & Grafana
-• AWS Load Balancer Controller
+• Nginx
 • Kubernetes
 
 [View Project](https://github.com/SiadA2/Production-Grade-EKS-App)
@@ -78,7 +78,7 @@ Advanced deployment strategy implementing blue-green methodology across multiple
 • AWS ECS
 • Docker
 • Terraform
-• AWS CodePipeline
+• AWS CodeDeploy
 • AWS Route 53
 • Application Load Balancer
 • CloudWatch
