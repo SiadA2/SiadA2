@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siad</h1>
-<h3 align="center">DevOps Engineer passionate about automating infrastructure and delivering scalable cloud solutions</h3>
+<h3 align="center">DevOps Engineer who deploys with direction and purpose</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siada2&label=Profile%20views&color=0e75b6&style=flat" alt="siada2" /> </p>
 
